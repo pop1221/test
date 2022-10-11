@@ -10,6 +10,7 @@
 public class NewClass {
     public static void main(String[] args) {
         System.out.println("hello world solo ko ga");
+        System.out.println("123");
         // solo cái địt mẹ m
     }
 }
